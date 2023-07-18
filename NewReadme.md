@@ -1,34 +1,24 @@
-Hi there!
-
-
-I'm learning to code, interested in data analytics and data science, aiming to be hired by mid of 2021.  
-
-This repository is for Open [Data Analysis Course](https://fintech.tinkoff.ru/study/academy/analysis/) for Moscow State University Faculty of Mechanics and Mathematics students by Tinkoff Education 2021. I have been taken this course in March--May 2021. Notebooks include my code and solutions for home-tasks and projects of the course.  
+# Это хранилище предназначено для открытого [Курса анализа данных](https://fintech.tinkoff.ru/study/academy/analysis /) для студентов механико-математического факультета МГУ от Tinkoff Education 2021. Я прошел этот курс в марте-мае 2023 года. Notebooks содержат мой код и решения для домашних заданий и проектов курса.
 
 
 
+**Учебная программа курса:**  
 
-**Course curriculum:**  
-1. SQL  
-2. Data Visualization in Python  
+1. Data Visualization in Python   
+2. Logistic regression   
 3. A/B tests (part 1)  
 4. A/B tests (part 2)  
 5. A/B tests (part 3)  
 6. Data Interpretation  
 7. Mobile Analytics
-8. Logistic regression  
+8. Random forest
 9. Models    
-10. Random forest    
+10. SQL  
 
 
   
-
-
-Hope this repo will help you to assess my SQL skills or will be just fun for you to look through.    
+# Надеюсь, этот отчет поможет вам освоить мои навыки работы с SQL или просто доставит вам удовольствие от просмотра.
 
 
 
---------------------------------------------
-Feel free to contact me via nktn.lx@gmal.com  
-Follow me on twitter: @nktn_lx  
-And here on github: github.com/nktnlx  
+------------------------------------------------------------------------------------------------------------------------------------
