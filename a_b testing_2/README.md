@@ -1,4 +1,4 @@
-The notebook contains python code to solve home-tasks from the [Data Analysis Course] for Moscow State University students by Tinkoff Education 2021 I've enrolled in March 2023.   
+The notebook contains python code to solve home-tasks from the [Data Analysis Course] for Moscow State University students by Tinkoff Education 2021 I've enrolled in March-April 2023.   
 
 
 
